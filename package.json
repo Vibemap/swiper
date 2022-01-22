@@ -1,5 +1,5 @@
 {
-  "name": "swiper-src",
+  "name": "vibemap-swiper",
   "version": "7.4.1",
   "description": "Most modern mobile touch slider and framework with hardware accelerated transitions",
   "scripts": {
@@ -76,8 +76,7 @@
     "url": "https://github.com/nolimits4web/swiper/issues"
   },
   "homepage": "https://swiperjs.com",
-  "funding": [
-    {
+  "funding": [{
       "type": "patreon",
       "url": "https://www.patreon.com/vladimirkharlampidi"
     },
